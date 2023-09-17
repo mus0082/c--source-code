@@ -1,0 +1,95 @@
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\appsettings.Development.json
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\appsettings.json
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.staticwebassets.runtime.json
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.exe
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.deps.json
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.runtimeconfig.json
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\week 11\bin\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.csproj.AssemblyReference.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.AssemblyInfoInputs.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.AssemblyInfo.cs
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.csproj.CoreCompileInputs.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.MvcApplicationPartsAssemblyInfo.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cs
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets\msbuild.week 11.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets\msbuild.build.week 11.props
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.week 11.props
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.week 11.props
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets.build.json
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\staticwebassets.development.json
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\scopedcss\bundle\week 11.styles.css
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\scopedcss\projectbundle\week 11.bundle.scp.css
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\refint\week 11.dll
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\week 11.genruntimeconfig.cache
+D:\pro8145_c# demo\week 11\obj\Debug\net7.0\ref\week 11.dll
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\appsettings.Development.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\appsettings.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.staticwebassets.runtime.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.exe
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.deps.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.runtimeconfig.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.csproj.AssemblyReference.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.AssemblyInfoInputs.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.AssemblyInfo.cs
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.csproj.CoreCompileInputs.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.MvcApplicationPartsAssemblyInfo.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cs
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.week 11.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.build.week 11.props
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.week 11.props
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.week 11.props
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.build.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.development.json
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\bundle\week 11.styles.css
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\projectbundle\week 11.bundle.scp.css
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\refint\week 11.dll
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.genruntimeconfig.cache
+D:\pro8145_c# demo\Assignment 3_Muhammad_Siddiqui\obj\Debug\net7.0\ref\week 11.dll
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\appsettings.Development.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\appsettings.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\storeData.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.staticwebassets.runtime.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.exe
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.deps.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.runtimeconfig.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.csproj.AssemblyReference.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.AssemblyInfoInputs.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.AssemblyInfo.cs
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.csproj.CoreCompileInputs.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.MvcApplicationPartsAssemblyInfo.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.RazorAssemblyInfo.cs
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.week 11.Microsoft.AspNetCore.StaticWebAssets.props
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.build.week 11.props
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.week 11.props
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.week 11.props
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.pack.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.build.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\staticwebassets.development.json
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\bundle\week 11.styles.css
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\scopedcss\projectbundle\week 11.bundle.scp.css
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.dll
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\refint\week 11.dll
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.pdb
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\week 11.genruntimeconfig.cache
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\obj\Debug\net7.0\ref\week 11.dll
+D:\pro8145_c# demo\Assignment 4_Muhammad_Siddiqui\bin\Debug\net7.0\People.json

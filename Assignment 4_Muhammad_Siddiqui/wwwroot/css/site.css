@@ -1,0 +1,59 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+label {
+  color: black;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.expandTheTextField {
+  width: 50%;
+
+}
+
+.forPersonAddedBold {
+  font-weight: bold;
+}
+
+.separation-margin {
+  margin: 1%;
+  width: 50%;
+}
+
+.btn {
+  background-color: #258cfb;
+  color: black;
+}
+
+
+
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

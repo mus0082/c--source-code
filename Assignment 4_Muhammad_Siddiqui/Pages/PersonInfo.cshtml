@@ -1,0 +1,48 @@
+@page
+@model personModel
+@{
+    ViewData["Title"] = "Person Information";
+}
+<h1>@ViewData["Title"]</h1>
+
+<form method="POST">
+    <div class="form-group">
+        <div class="separation-margin">
+            <label asp-for="inputPerson.FirstName"></label><br>
+            <input asp-for="inputPerson.FirstName" placeholder="First Name" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.FirstName" class="text-color"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.LastName"></label><br>
+            <input asp-for="inputPerson.LastName" placeholder="Last Name" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.LastName" class="text-color"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.BirthDate"></label><br>
+            <input asp-for="inputPerson.BirthDate" type="date" placeholder="DATE OF BIRTH" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.BirthDate" class="text-color"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.Address"></label><br>
+            <input asp-for="inputPerson.Address" placeholder="Address" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.Address" class="text-color" class="expandTheTextField"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.City"></label><br>
+            <input asp-for="inputPerson.City" placeholder="City" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.City" class="text-color"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.Country"></label><br>
+            <input asp-for="inputPerson.Country" placeholder="Country" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.Country" class="text-color"></span><br>
+        </div>
+        <div class="separation-margin">
+            <label asp-for="inputPerson.Province"></label><br>
+            <input asp-for="inputPerson.Province" placeholder="Province" class="expandTheTextField" />
+            <span asp-validation-for="inputPerson.Province" class="text-color"></span><br>
+        </div>
+
+        <button type="submit" class="btn">Save</button>
+    </div>
+</form>

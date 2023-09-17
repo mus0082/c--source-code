@@ -1,0 +1,50 @@
+@page
+@model personListModel
+@{
+    ViewData["Title"] = "Person List";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<div class="form-group">
+    @if (Model.People.Count > 0)
+    {
+        @foreach (var person in Model.People)
+        {
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">First Name:</p>
+                <p>@person.FirstName</p>
+            </div>
+
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">Last Name:</p>
+                <p>@person.LastName</p>
+            </div>
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">BirthDate:</p>
+                <p>@person.BirthDate</p>
+            </div>
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">Address:</p>
+                <p>@person.Address</p>
+            </div>
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">City:</p>
+                <p>@person.City</p>
+            </div>
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">Country:</p>
+                <p>@person.Country</p>
+            </div>
+            <div class="separation-margin flex">
+                <p class="forPersonAddedBold">Province:</p>
+                <p>@person.Province</p>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No people available.</p>
+    }
+
+</div>
